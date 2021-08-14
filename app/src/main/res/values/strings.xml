@@ -1,0 +1,16 @@
+<resources>
+    <string name="app_name">PostManager</string>
+    <string name="create_post">Create Post</string>
+    <string name="delete_post">Delete Post</string>
+    <string name="edit_post">Edit Post</string>
+    <string name="enter_description">Enter Description</string>
+    <string name="hide">Hide</string>
+    <string name="close">close</string>
+    <string name="title">Title</string>
+    <string name="save">Save</string>
+    <string name="my_posts">My Posts</string>
+    <string name="post_details">Post Details</string>
+    <string name="body">Body</string>
+    <string name="read_more">Read More</string>
+    <string name="create_new_post">Create New Post</string>
+</resources>
